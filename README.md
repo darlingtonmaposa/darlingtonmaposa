@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darlington</h1>
-<h3 align="center">I am a very passionate learner, a Data Engineer, a Data Analyst, and a Cloud Engineer. I had my first degree in Telecommunications Engineering. I am an aspiring digital nomad and Cloud Enthusiast. Feel free to reach out to me on any of my handles.</h3>
+<h3 align="center">I am a very passionate learner, a Cloud Engineer/Architect with experience in deploying and managing infrastructure using Hashcorp Terraform, CloudFormation and Jenkins. I have hands-on experience in cloud infrastructure management, automation, and security. I am proficient in using many AWS Services such asIAM, EC2, Lambda, RDS, DynamoDB, VPC, CloudWatch. Feel free to reach out to me on any of my handles.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darlingtonmaposa&label=Profile%20views&color=0e75b6&style=flat" alt="darlingtonmaposa" /> </p>
 
