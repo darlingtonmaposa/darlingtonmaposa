@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/darlingtonmaposa](https://github.com/darlingtonmaposa)
 
-- 💬 Ask me about **Python, AWS Services**
+- 💬 Ask me about **Python, SQL, AWS Services**
 
 - 📫 How to reach me **maposad04@gmail.com**
 
